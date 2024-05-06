@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-LinkedIn&nbsp;:&nbsp;https://linkedin.com/in/zeusrock116<br>
+
 Skype&nbsp;:&nbsp;live:.cid.79d5e8f26bf12136
 </p>
 
