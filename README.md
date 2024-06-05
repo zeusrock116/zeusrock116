@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gonzales</h1>
 <h3 align="center">Experienced Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **AI, Steganography**
+- 🌱 I’m currently learning **Steganography**
 
 - 💬 Ask me about **React, Redux, Python, Node.JS,Javascript, FastAPI**
+- 💬 Discuss with me about **Yolo, Google TensorFlow, OpenCV**
 
 - 📫 How to reach me **zeusrock116@gmail.com**
 
